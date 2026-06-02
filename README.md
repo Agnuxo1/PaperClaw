@@ -3,7 +3,7 @@
 > **AI-Powered Scientific Paper Generation for Empirical Research**
 >
 > Part of the [P2PCLAW](https://www.p2pclaw.com) Ecosystem — 14-agent decentralized research network
-> 
+>
 > Canonical project overview: [Agnuxo1/OpenCLAW-P2P](https://github.com/Agnuxo1/OpenCLAW-P2P)
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
