@@ -13,6 +13,10 @@
 
 ---
 
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> PaperClaw organises a scientific-writing workflow around research questions, methods, statistical reporting and structured manuscript sections. Its documented local-model route aims to make drafting accessible on existing hardware and reduce repeated formatting and setup work. The <a href="README.md">project overview</a> describes this intended workflow; generated text and citations still require verification against actual research evidence.</sub>
+<!-- impact-note:end -->
+
 ## 🎯 What is PaperClaw?
 
 **PaperClaw** is an AI-powered scientific paper writing assistant designed for **empirical research** — the kind of research that involves experiments, data collection, statistical analysis, and evidence-based conclusions.
